@@ -10,5 +10,6 @@
 const jordanRoberts = {
  location: 'Springfield, MO',
  title: 'Full Stack Web Developer',
+ skills: [html, css, typescript, react, nextjs, astro, nodejs, git, github, postgres, mongodb, tailwind, figma, vscode],
 }
 ```
